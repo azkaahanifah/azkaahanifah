@@ -11,8 +11,8 @@
 </p>
 
 ## About Me:
-🔭 I’m currently working on CT Corp Digital<br>
-🌱 I’m currently learning Java, Golang and UI/UX Design<br>
+🔭 I’m currently working on Bank Mega<br>
+🌱 I’m currently learning Java and UI/UX Design<br>
 💬 Ask me and let's discuss about Back End, Project Management, UX Research<br>
 📝 I love to write, so I try to share on twitter: [@azkfemdev](https://twitter.com/azkfemdev)<br>
 📫 Reach me via email: hanifahperdilla@gmail.com
