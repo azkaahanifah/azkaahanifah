@@ -5,7 +5,7 @@
   <a href="https://github.com/azkaahanifah?tab=followers">
     <img src="https://img.shields.io/github/followers/azkaahanifah?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/azkfemdev">
+  <a href="http://twitter.com/azkfemdev/followers">
     <img src="https://img.shields.io/twitter/follow/azkfemdev?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
