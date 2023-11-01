@@ -11,15 +11,15 @@
 </p>
 
 ## About Me:
-🔭 I’m currently working on Bank Mega<br>
+🔭 I’m currently working on PT Asuransi Jiwa Astra<br>
 🌱 I’m currently learning Java and UI/UX Design<br>
-💬 Ask me and let's discuss about Back End, Project Management, UX Research<br>
+💬 Ask me and let's discuss about Back End up & Project Management<br>
 📝 I love to write, so I try to share on twitter: [@azkfemdev](https://twitter.com/azkfemdev)<br>
 📫 Reach me via email: hanifahperdilla@gmail.com
 
 
 ## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azkaahanifah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hanifah-perdilla) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@azkfemdev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/azkfemdev) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hanifah-perdilla) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@azkfemdev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/azkfemdev) 
 
 ## GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=azkaahanifah&theme=radical&hide_border=true)<br/>
