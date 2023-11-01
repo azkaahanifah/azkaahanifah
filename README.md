@@ -13,7 +13,7 @@
 ## About Me:
 🔭 I’m currently working on PT Asuransi Jiwa Astra<br>
 🌱 I’m currently learning Java and UI/UX Design<br>
-💬 Ask me and let's discuss about Back End up & Project Management<br>
+💬 Ask me and let's discuss about Back End & Project Management<br>
 📝 I love to write, so I try to share on twitter: [@azkfemdev](https://twitter.com/azkfemdev)<br>
 📫 Reach me via email: hanifahperdilla@gmail.com
 
